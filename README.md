@@ -11,7 +11,7 @@
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/info-devf5r/UDP-Custom-Installer-Manager/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
+wget "https://raw.githubusercontent.com/maddix123/UDP-Custom-Installer-Manager/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
 
 
